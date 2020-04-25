@@ -2,6 +2,8 @@ package com.sfs.filesystem
 
 import com.sfs.files.Directory
 
+// TODO: Ask why State can't be case class
+
 /**
  *
  * @param root Root Directory
